@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Lamplight Heist — a stealth game</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  html, body { margin: 0; padding: 0; background: #0b0d12; height: 100%; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center; font-family: Georgia, serif; }
+  #wrap { text-align: center; }
+  canvas { display: block; border: 2px solid #3a2f1d; box-shadow: 0 0 60px rgba(255, 190, 80, 0.12); background: #101319; }
+  #hint { color: #9a8a68; font-size: 13px; margin-top: 10px; letter-spacing: 0.5px; }
+  #hint b { color: #e8c87a; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="960" height="600"></canvas>
+  <div id="hint"><b>WASD / arrows</b> move &nbsp;·&nbsp; <b>Shift</b> sneak (silent, slow) &nbsp;·&nbsp; <b>P</b> pause &nbsp;·&nbsp; <b>R</b> restart level &nbsp;·&nbsp; <b>M</b> mute</div>
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
