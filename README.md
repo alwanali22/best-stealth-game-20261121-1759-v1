@@ -1,6 +1,14 @@
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/alwanali22/best-stealth-game-20261121-1759-v1/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/alwanali22/best-stealth-game-20261121-1759-v1/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 # Lamplight Heist — a stealth game
 
 Steal every relic from the midnight museum, then slip out the green door — unseen.
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/best-stealth-game-20261121-1759)'s "Make the best stealth game" bounty, $50 in USDC. Referral code: `96scxnkd`.
+
+Run it with: open `game/index.html` in desktop Chrome.
 
 ## How to play
 
